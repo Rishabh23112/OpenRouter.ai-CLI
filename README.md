@@ -33,14 +33,14 @@ export OPENROUTER_API_KEY="your-key-here"
 
 ### 3. Run!
 ```bash
-openrouter-cli "Explain quantum entanglement" --model anthropic/claude-3.5-sonnet
+python3 openrouter.py "Explain quantum entanglement" --model anthropic/claude-3.5-sonnet
 ```
 
 ## Full Usage
 
 ### Basic Query
 ```bash
-openrouter-cli "Your prompt here"
+python3 openrouter.py "Your prompt here"
 ```
 
 ### Advanced Options
