@@ -33,7 +33,7 @@ export OPENROUTER_API_KEY="your-key-here"
 
 ### 3. Run!
 ```bash
-python3 openrouter.py "Your Prompt here" --model anthropic/claude-3.5-sonnet
+python3 openrouter.py "Your Prompt here" --model anthropic/claude-3.5-sonnet #model name
 ```
 
 ## Full Usage
