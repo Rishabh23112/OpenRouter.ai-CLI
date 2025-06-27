@@ -100,7 +100,7 @@ black .
 A: Sign up at [OpenRouter.ai](https://openrouter.ai/keys)
 
 **Q: How to update the model list?**  
-A: Edit `AVAILABLE_MODELS` in [openrouter_cli.py](openrouter_cli.py)
+A: Edit `AVAILABLE_MODELS` in [openrouter.py](openrouter.py)
 
 ## 📜 License
 MIT © [Rishabh Kumar]  
