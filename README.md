@@ -10,7 +10,7 @@ A lightweight command-line interface (CLI) to interact with cutting-edge AI mode
 
 ## Features
 
-- Query **20+ AI models** with a single command
+- Query **Multiple AI models** with a single command
 - **No API wrappers** – Direct HTTP requests for minimal latency
 - **Token usage stats** (`--usage` flag)
 - Colorful terminal output (or minimalist `--glow` mode)
