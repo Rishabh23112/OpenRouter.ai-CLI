@@ -103,7 +103,7 @@ A: Sign up at [OpenRouter.ai](https://openrouter.ai/keys)
 A: Edit `AVAILABLE_MODELS` in [openrouter.py](openrouter.py)
 
 ## 📜 License
-MIT © [Rishabh Kumar]  
+MIT © Rishabh Kumar  
 
 ---
 
