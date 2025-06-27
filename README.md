@@ -81,18 +81,6 @@ google/gemini-pro-1.5
    openrouter-cli "Generate Django models" > models.py
    ```
 
-## 🛠️ Development
-
-```bash
-# Install dev dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-pytest
-
-# Format code
-black .
-```
 
 ## ❓ FAQ
 
