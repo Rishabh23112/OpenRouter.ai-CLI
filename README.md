@@ -23,12 +23,12 @@ A lightweight command-line interface (CLI) to interact with cutting-edge AI mode
 ```bash
 git clone https://github.com/your-username/OpenRouter-CLI.git
 cd OpenRouter-CLI
-pip install -e .  # Install in editable mode
+pip install -e . 
 ```
 
 ### 2. Configure API Key
 ```bash
-export OPENROUTER_API_KEY="your-key-here"  # Add to ~/.bashrc or ~/.zshrc
+export OPENROUTER_API_KEY="your-key-here"  
 ```
 
 ### 3. Run!
