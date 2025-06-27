@@ -22,7 +22,7 @@ A lightweight command-line interface (CLI) to interact with cutting-edge AI mode
 ### 1. Install
 ```bash
 git clone git@github.com:Rishabh23112/OpenRouter.ai-CLI.git
-cd Open-Router_CLI
+cd OpenRouter.ai-CLI
 pip install -e . 
 ```
 
