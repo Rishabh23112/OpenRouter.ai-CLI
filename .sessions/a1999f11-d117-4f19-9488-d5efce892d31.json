@@ -1,0 +1,18 @@
+{
+  "session_id": "a1999f11-d117-4f19-9488-d5efce892d31",
+  "created_at": "2025-07-04T17:42:47.355620",
+  "model": "openai/gpt-4o",
+  "entries": [
+    {
+      "timestamp": "2025-07-04T17:42:52.319870",
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "timestamp": "2025-07-04T17:42:52.320434",
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "usage": "{\"prompt_tokens\": 17, \"completion_tokens\": 9, \"total_tokens\": 26, \"prompt_tokens_details\": {\"cached_tokens\": 0}, \"completion_tokens_details\": {\"reasoning_tokens\": 0}}"
+    }
+  ]
+}

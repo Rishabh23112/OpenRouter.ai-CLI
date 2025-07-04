@@ -1,0 +1,18 @@
+{
+  "session_id": "c00c880b-e126-4e74-93dc-250a27c98730",
+  "created_at": "2025-07-04T17:47:24.124218",
+  "model": "google/gemini-pro-1.5",
+  "entries": [
+    {
+      "timestamp": "2025-07-04T17:47:28.751236",
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "timestamp": "2025-07-04T17:47:28.751657",
+      "role": "assistant",
+      "content": "Hi\n",
+      "usage": "{\"prompt_tokens\": 6, \"completion_tokens\": 2, \"total_tokens\": 8}"
+    }
+  ]
+}
